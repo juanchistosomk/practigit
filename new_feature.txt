@@ -1,1 +1,0 @@
-prueba para revertir un comit en remoto
