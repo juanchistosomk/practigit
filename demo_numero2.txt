@@ -2,3 +2,6 @@ rayuelaq
 raq numero 2
 req numero 3
 req numero 4
+raq numero 5
+raq numero 6
+raq numero 7
