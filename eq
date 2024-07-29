@@ -1,0 +1,149 @@
+[33mcommit bcfd29ffa1ed458832d5fc5f723a1b54e29f75ce[m[33m ([m[1;36mHEAD -> [m[1;32mrama-fail[m[33m, [m[1;31morigin/rama-fail[m[33m)[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Mon Jul 29 15:30:59 2024 -0500
+
+    Revert este commit no iba "come back change"
+    
+    This reverts commit a782dda4401ee8c10c22ce450ba613b009218b96.
+
+[33mcommit a782dda4401ee8c10c22ce450ba613b009218b96[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Mon Jul 29 15:27:54 2024 -0500
+
+    come back change
+
+[33mcommit b6d87673a7ac5d53e41512fedfa8febef4a2c85d[m
+Author: juanKarlozDEV <36779031+juanchistosomk@users.noreply.github.com>
+Date:   Mon Jul 29 15:26:09 2024 -0500
+
+    Update prueba_rama_commit_fail.txt
+
+[33mcommit f027a9f4983cd5c0ba13a12e79a55759057bf8f9[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Mon Jul 29 14:57:37 2024 -0500
+
+    commit rama equivocada edit
+
+[33mcommit c7365349106cc8584d3f8f4f5a02215b2dc44007[m[33m ([m[1;31morigin/new-feature-form[m[33m, [m[1;32mnew-feature-form[m[33m)[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 18 18:13:04 2024 -0500
+
+    Revert "prueba de reversion new-feature"
+    
+    This reverts commit 905e360cc75270474dc57d77e93fc09b559cb920.
+
+[33mcommit 905e360cc75270474dc57d77e93fc09b559cb920[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 18 18:10:16 2024 -0500
+
+    prueba de reversion new-feature
+
+[33mcommit b158320646c3ed9d543612cc817d19a3c3d610b7[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 18 18:00:33 2024 -0500
+
+    new-feature
+
+[33mcommit e1b725ae172372ee9a84ec0a3cb516e520cd16e3[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 0d392ac 53ab195
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 18 17:50:53 2024 -0500
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 53ab195be7bb631428a0f232084bdae1bd59ee24[m
+Author: juanKarlozDEV <36779031+juanchistosomk@users.noreply.github.com>
+Date:   Thu Jul 18 17:35:41 2024 -0500
+
+    Update two demo_numero2.txt
+
+[33mcommit 0d392acd37653e896ad1cc84ff12a37ec566104b[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 18 17:34:54 2024 -0500
+
+    creacion contenido archivo demo_numero4
+
+[33mcommit 756b4b44d9a9ea2dd4e63a1842dfab375bd6df13[m
+Author: juanKarlozDEV <36779031+juanchistosomk@users.noreply.github.com>
+Date:   Thu Jul 18 17:32:45 2024 -0500
+
+    Update demo_numero2.txt
+
+[33mcommit 99e6962a7c6f35fa89e67ceb53c36c8f892da760[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 18 17:15:06 2024 -0500
+
+    creacion contenido archivo demo_numero2
+
+[33mcommit d27956d47120743e9acbc66acff9cd3b100eebb5[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 18 17:13:43 2024 -0500
+
+    prueba nueva2
+
+[33mcommit 3edd36c345ded303177db95388128b605192029c[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Thu Jul 4 09:15:31 2024 -0500
+
+    file experimental branch
+
+[33mcommit aac50801a94a1a5c9bde5581ebcb4edeec3f9497[m
+Merge: d5396d2 f826eee
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 19:27:28 2024 -0500
+
+    Merge branch 'feature3' of https://github.com/juanchistosomk/practigit
+
+[33mcommit d5396d24221b1a3c422e0d83f358b09ed7f2c7a6[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 19:13:07 2024 -0500
+
+    Delete file
+
+[33mcommit ecf96ae320f99a6a384978b2a96cc88e43d8505c[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 19:09:51 2024 -0500
+
+    File demo delete
+
+[33mcommit f826eee5c0dffdb933ddb7d973f6cd08f346648c[m[33m ([m[1;31morigin/feature3[m[33m, [m[1;32mfeature3[m[33m)[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 18:59:34 2024 -0500
+
+    Table created, list users
+
+[33mcommit 45639bfdb37df5bd8bb9a2df70c74aa64e9370b8[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 18:47:21 2024 -0500
+
+    Users created!
+
+[33mcommit 8b0628d50bf3ff0950aad1d2511e4edd395a9ba7[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 18:45:55 2024 -0500
+
+    Products created!
+
+[33mcommit 4129564e0be6f030bea90909885b3eb28da70cb8[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 17:57:33 2024 -0500
+
+    Index created!
+
+[33mcommit 499897d6b83ebbfdbefa2202e3963369fddf6bc5[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 17:54:24 2024 -0500
+
+    second commit!
+
+[33mcommit 27619aea2be734c7710ec36b7bc92acc9783b3c3[m
+Author: juanKarlozDEV <36779031+juanchistosomk@users.noreply.github.com>
+Date:   Wed Jul 3 17:30:32 2024 -0500
+
+    update README.md
+
+[33mcommit a580931a9a84c8dfe6cb3af45f41d38108ce69ac[m
+Author: juanchistosomk <juankarlitos22@hotmail.com>
+Date:   Wed Jul 3 17:26:00 2024 -0500
+
+    first commit!
